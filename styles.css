@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(150, 150, 150);
+}
+
+#spicyLogo {
+    text-align: center;
+}
+
+#socialaMedier {
+    width: 70px;
+    margin-left: 93%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: -55px
+}
+
+#lista {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+}
